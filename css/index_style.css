@@ -1,6 +1,33 @@
+body {
+    background-color: darkturquoise;
+}
 p, .center {
     text-align: center;
 }
 .center {
     font-weight: bold;
+}
+.buttons {
+    padding: 10px;
+}
+.animal_image {
+    display: inline;
+    margin-left: 300px;
+}
+.memory_image {
+    display: inline;
+    margin-left: 420px;
+}
+.animal_button {
+    background-color: lightblue;
+    margin-left: 320px;
+}
+.memory_button {
+    background-color: lightblue;
+    margin-left: 420px;
+}
+.liza_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
