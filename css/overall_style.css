@@ -13,3 +13,9 @@ h1 {
     font-size: 35px;
     color:brown;
 }
+.center {
+    text-align: center;
+}
+button {
+    background-color: lightblue;
+}

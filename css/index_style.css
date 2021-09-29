@@ -1,10 +1,4 @@
 
-p, .center {
-    text-align: center;
-}
-.center {
-    font-weight: bold;
-}
 .buttons {
     padding: 10px;
 }
@@ -17,11 +11,9 @@ p, .center {
     margin-left: 420px;
 }
 .animal_button {
-    background-color: lightblue;
     margin-left: 320px;
 }
 .memory_button {
-    background-color: lightblue;
     margin-left: 420px;
 }
 .liza_image {
