@@ -1,0 +1,9 @@
+img {
+    padding: 2px;
+}
+.row_1 {
+    transform: rotate(5deg);
+}
+.row_2 {
+    transform: rotate(-5deg);
+}
