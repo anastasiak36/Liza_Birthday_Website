@@ -8,13 +8,13 @@
 }
 .memory_image {
     display: inline;
-    margin-left: 420px;
+    
 }
 .animal_button {
     margin-left: 320px;
 }
-.memory_button {
-    margin-left: 420px;
+.memory_button, .memory_image {
+    margin-left: 350px;
 }
 .liza_image {
     display: block;

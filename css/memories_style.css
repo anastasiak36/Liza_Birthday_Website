@@ -1,9 +1,39 @@
-img {
+img, .videos {
     padding: 2px;
+}
+.videos{
+    margin-top: 30px;
 }
 .row_1 {
     transform: rotate(5deg);
 }
+#cake {
+    margin-left: 150px;
+}
+#table {
+    margin-left: 200px;
+}
+#cutting_cake {
+    margin-left: 200px;
+}
 .row_2 {
     transform: rotate(-5deg);
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.gerbil_stuff {
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.cage {
+    margin-left: 70px;
+}
+.ferb {
+    margin-left: 70px;
+}
+.gift {
+    margin-left: 270px;
+}
+.happy_bday_sing {
+    margin-left: 290px;
 }
